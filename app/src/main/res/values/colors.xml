@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>-->
+    <color name="colorPrimary">@color/brand_bg</color>
+    <color name="colorPrimaryDark">@color/brand_bg_dark</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+
+    <color name="text_color">@color/white</color>
+
+    <color name="background1">#3d3064</color>
+    <color name="background2">#495263</color>
+    <color name="background3">#f7b777</color>
+    <color name="background4">#4da4bf</color>
+
+    <color name="brand_bg">#003f87</color>
+    <color name="brand_bg_dark">  #003572</color>
+    <color name="brand_bg2">#ce1126</color>
+
+</resources>
